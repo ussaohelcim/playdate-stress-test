@@ -1,0 +1,6 @@
+name=Stress test.
+author=ussaohelcim
+description=Simple stress test.
+bundleID=com.NILCO.test
+version=1.0.0
+buildNumber=100
